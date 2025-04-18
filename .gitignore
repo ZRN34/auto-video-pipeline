@@ -1,0 +1,9 @@
+# venv et fichiers temporaires
+venv/
+temp_slides/
+slides_images/
+*.pptx
+*.mp4
+audio*.mp3
+!voice.mp3
+set_keys.bat 
